@@ -1,0 +1,111 @@
+message_id,action,message_type,reason,confidence,evidence_message_ids
+msg_023,notify,personal,Standard message requiring contextual analysis.,0.68,message_0243;message_0101
+msg_091,mute,scam,"High scam indicator score: phishing, credential theft, or social engineering patterns detected.",0.97,message_0086;message_0143
+msg_090,notify,personal,Standard message requiring contextual analysis.,0.75,message_0045;message_0173
+msg_048,mute,spam,"High scam indicator score: phishing, credential theft, or social engineering patterns detected.",0.97,message_0100;message_0140
+msg_040,mute,greeting,Highly forwarded chain message or viral spam with no personal relevance.,0.94,message_0077;message_0040
+msg_075,notify,personal,Standard message requiring contextual analysis.,0.68,message_0206;message_0205
+msg_005,notify,personal,Standard message requiring contextual analysis.,0.68,message_0115;message_0143
+msg_104,notify,personal,Standard message requiring contextual analysis.,0.75,message_0115;message_0082
+msg_069,mute,greeting,Highly forwarded chain message or viral spam with no personal relevance.,0.94,message_0077;message_0040
+msg_107,mute,scam,Prompt injection attack detected: message attempts to manipulate the notification router.,0.98,message_0045;message_0173
+msg_070,mute,scam,"High scam indicator score: phishing, credential theft, or social engineering patterns detected.",0.97,message_0115;message_0143
+msg_003,notify,business_update,Legitimate order fulfillment or delivery status notification.,0.91,message_0239;message_0004
+msg_099,notify,personal,Standard message requiring contextual analysis.,0.75,message_0117;message_0249
+msg_008,mute,promotion,Commercial marketing offer from a business account.,0.83,message_0071;message_0072
+msg_092,digest,payment,Legitimate financial transaction or payment notification.,0.88,none
+msg_060,notify,personal,Standard message requiring contextual analysis.,0.68,message_0176;message_0082
+msg_004,notify,personal,Standard message requiring contextual analysis.,0.68,message_0063;message_0005
+msg_030,notify,personal,Standard message requiring contextual analysis.,0.68,message_0115;message_0143
+msg_045,notify,personal,Standard message requiring contextual analysis.,0.68,message_0069;message_0008
+msg_052,mute,spam,"High scam indicator score: phishing, credential theft, or social engineering patterns detected.",0.97,message_0208;message_0160
+msg_009,notify,personal,Standard message requiring contextual analysis.,0.68,message_0313;message_0074
+msg_071,notify,personal,Standard message requiring contextual analysis.,0.68,message_0198;message_0016
+msg_016,mute,scam,"High scam indicator score: phishing, credential theft, or social engineering patterns detected.",0.97,message_0115;message_0143
+msg_065,mute,promotion,Commercial marketing offer from a business account.,0.91,message_0261;message_0336
+msg_038,mute,greeting,Highly forwarded chain message or viral spam with no personal relevance.,0.94,message_0020;message_0132
+msg_086,notify,personal,Standard message requiring contextual analysis.,0.68,message_0396;message_0112
+msg_014,mute,promotion,Commercial marketing offer from a business account.,0.91,message_0084;message_0305
+msg_094,mute,promotion,Commercial marketing offer from a business account.,0.91,none
+msg_029,mute,forward,Highly forwarded chain message or viral spam with no personal relevance.,0.94,message_0115;message_0143
+msg_105,mute,forward,Highly forwarded chain message or viral spam with no personal relevance.,0.94,message_0132;message_0016
+msg_002,notify,personal,Message directly mentions or is addressed to the user.,0.85,message_0117;message_0249
+msg_010,notify,personal,Standard message requiring contextual analysis.,0.68,message_0075;message_0242
+msg_078,mute,scam,"High scam indicator score: phishing, credential theft, or social engineering patterns detected.",0.97,message_0115;message_0143
+msg_013,notify,personal,Standard message requiring contextual analysis.,0.68,message_0176;message_0082
+msg_018,mute,forward,Highly forwarded chain message or viral spam with no personal relevance.,0.94,message_0115;message_0143
+msg_044,notify,personal,Standard message requiring contextual analysis.,0.68,message_0115;message_0143
+msg_032,notify,personal,Standard message requiring contextual analysis.,0.68,message_0285;message_0355
+msg_106,notify,personal,Standard message requiring contextual analysis.,0.75,message_0340;message_0388
+msg_006,notify,personal,Standard message requiring contextual analysis.,0.68,message_0180;message_0015
+msg_109,mute,scam,Prompt injection attack detected: message attempts to manipulate the notification router.,0.98,message_0100;message_0140
+msg_108,mute,scam,Prompt injection attack detected: message attempts to manipulate the notification router.,0.98,message_0236;message_0093
+msg_019,mute,promotion,Commercial marketing offer from a business account.,0.83,message_0236;message_0093
+msg_088,notify,personal,Standard message requiring contextual analysis.,0.68,message_0115;message_0143
+msg_056,notify,personal,Message directly mentions or is addressed to the user.,0.85,message_0077;message_0040
+msg_027,mute,promotion,Commercial marketing offer from a business account.,0.91,message_0396;message_0112
+msg_050,notify,personal,Standard message requiring contextual analysis.,0.68,message_0279;message_0156
+msg_083,notify,personal,Standard message requiring contextual analysis.,0.68,message_0117;message_0249
+msg_063,mute,spam,"High scam indicator score: phishing, credential theft, or social engineering patterns detected.",0.97,message_0182;message_0012
+msg_033,notify,personal,Standard message requiring contextual analysis.,0.68,message_0122;message_0265
+msg_061,mute,greeting,Highly forwarded chain message or viral spam with no personal relevance.,0.94,message_0077;message_0040
+msg_020,mute,spam,"High scam indicator score: phishing, credential theft, or social engineering patterns detected.",0.95,message_0115;message_0143
+msg_017,mute,spam,"High scam indicator score: phishing, credential theft, or social engineering patterns detected.",0.94,message_0115;message_0143
+msg_058,mute,greeting,Highly forwarded chain message or viral spam with no personal relevance.,0.94,message_0077;message_0040
+msg_026,mute,spam,"High scam indicator score: phishing, credential theft, or social engineering patterns detected.",0.97,message_0108;message_0032
+msg_047,notify,personal,Standard message requiring contextual analysis.,0.68,message_0100;message_0140
+msg_046,notify,personal,Standard message requiring contextual analysis.,0.68,message_0198;message_0016
+msg_042,notify,personal,Standard message requiring contextual analysis.,0.68,message_0100;message_0140
+msg_079,mute,scam,"High scam indicator score: phishing, credential theft, or social engineering patterns detected.",0.97,message_0115;message_0143
+msg_098,notify,personal,Standard message requiring contextual analysis.,0.75,message_0198;message_0280
+msg_037,notify,personal,Standard message requiring contextual analysis.,0.68,message_0180;message_0015
+msg_007,notify,personal,Standard message requiring contextual analysis.,0.68,message_0069;message_0008
+msg_085,notify,personal,Standard message requiring contextual analysis.,0.68,message_0221
+msg_001,notify,urgent,Time-sensitive message with high urgency indicators.,0.86,message_0180;message_0015
+msg_021,notify,payment,Legitimate financial transaction or payment notification.,0.86,message_0180;message_0015
+msg_028,mute,promotion,Commercial marketing offer from a business account.,0.91,message_0396;message_0112
+msg_012,mute,forward,Highly forwarded chain message or viral spam with no personal relevance.,0.94,message_0020;message_0132
+msg_064,mute,scam,Message requests sensitive action (click/verify) with suspicious scam indicators.,0.81,message_0115;message_0143
+msg_103,notify,personal,Standard message requiring contextual analysis.,0.75,message_0115;message_0082
+msg_031,notify,personal,Standard message requiring contextual analysis.,0.68,message_0117;message_0249
+msg_057,notify,personal,Message directly mentions or is addressed to the user.,0.85,message_0117;message_0249
+msg_087,notify,personal,Standard message requiring contextual analysis.,0.68,message_0358;message_0203
+msg_067,notify,payment,Legitimate financial transaction or payment notification.,0.88,message_0180;message_0015
+msg_039,notify,payment,Legitimate financial transaction or payment notification.,0.88,message_0403;message_0134
+msg_082,notify,personal,Standard message requiring contextual analysis.,0.68,message_0117;message_0249
+msg_066,mute,promotion,Commercial marketing offer from a business account.,0.91,message_0261;message_0336
+msg_049,notify,business_update,Legitimate order fulfillment or delivery status notification.,0.91,message_0291;message_0154
+msg_015,notify,personal,Standard message requiring contextual analysis.,0.68,message_0115;message_0143
+msg_051,mute,promotion,Commercial marketing offer from a business account.,0.91,message_0337;message_0356
+msg_097,notify,personal,Standard message requiring contextual analysis.,0.75,message_0198;message_0280
+msg_089,notify,personal,Standard message requiring contextual analysis.,0.75,message_0086;message_0143
+msg_053,mute,spam,Forwarded message with suspicious content patterns detected.,0.9,message_0391;message_0411
+msg_059,mute,scam,"High scam indicator score: phishing, credential theft, or social engineering patterns detected.",0.97,message_0115;message_0143
+msg_024,mute,promotion,Commercial marketing offer from a business account.,0.91,message_0337;message_0356
+msg_072,mute,scam,"High scam indicator score: phishing, credential theft, or social engineering patterns detected.",0.97,message_0115;message_0143
+msg_036,mute,spam,"High scam indicator score: phishing, credential theft, or social engineering patterns detected.",0.97,message_0128;message_0283
+msg_076,mute,spam,"High scam indicator score: phishing, credential theft, or social engineering patterns detected.",0.97,message_0208;message_0160
+msg_055,notify,personal,Time-sensitive message with high urgency indicators.,0.86,message_0198;message_0016
+msg_102,notify,personal,Standard message requiring contextual analysis.,0.75,message_0117;message_0249
+msg_080,notify,personal,Standard message requiring contextual analysis.,0.68,message_0180;message_0015
+msg_093,notify,business_update,Legitimate order fulfillment or delivery status notification.,0.91,none
+msg_034,mute,greeting,Highly forwarded chain message or viral spam with no personal relevance.,0.94,message_0077;message_0040
+msg_035,notify,personal,Standard message requiring contextual analysis.,0.68,message_0126;message_0281
+msg_101,notify,personal,Standard message requiring contextual analysis.,0.75,message_0340;message_0388
+msg_041,notify,personal,Standard message requiring contextual analysis.,0.68,message_0308;message_0354
+msg_011,mute,greeting,Highly forwarded chain message or viral spam with no personal relevance.,0.94,message_0077;message_0040
+msg_110,mute,scam,Prompt injection attack detected: message attempts to manipulate the notification router.,0.98,message_0086;message_0143
+msg_095,mute,scam,Prompt injection attack detected: message attempts to manipulate the notification router.,0.98,message_0045;message_0173
+msg_074,mute,spam,"High scam indicator score: phishing, credential theft, or social engineering patterns detected.",0.97,message_0358;message_0203
+msg_073,mute,spam,Message requests sensitive action (click/verify) with suspicious scam indicators.,0.81,message_0115;message_0143
+msg_054,mute,spam,"High scam indicator score: phishing, credential theft, or social engineering patterns detected.",0.97,message_0182;message_0012
+msg_068,notify,personal,Standard message requiring contextual analysis.,0.68,message_0038;message_0192
+msg_100,notify,personal,Standard message requiring contextual analysis.,0.75,message_0117;message_0249
+msg_062,mute,forward,Highly forwarded chain message or viral spam with no personal relevance.,0.94,message_0180;message_0015
+msg_096,notify,personal,Standard message requiring contextual analysis.,0.75,message_0086;message_0143
+msg_043,mute,forward,Highly forwarded chain message or viral spam with no personal relevance.,0.94,message_0180;message_0015
+msg_077,notify,personal,Standard message requiring contextual analysis.,0.68,message_0403;message_0134
+msg_081,notify,personal,Standard message requiring contextual analysis.,0.68,message_0403;message_0134
+msg_025,notify,business_update,Legitimate order fulfillment or delivery status notification.,0.91,message_0239;message_0004
+msg_084,notify,personal,Standard message requiring contextual analysis.,0.68,message_0243;message_0101
+msg_022,notify,payment,Legitimate financial transaction or payment notification.,0.86,message_0100;message_0140
